@@ -1,2 +1,2 @@
 # Connect-4
-This is a web version of connect 4
+Web implementation of Connect-4. Fully responsive, custom designed board and pieces.
